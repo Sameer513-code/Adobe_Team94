@@ -29,6 +29,16 @@ This backend powers an image editing application with two distinct editing workf
 
 ---
 
+## Team & Contributions
+
+* **Aashish Muralikrishnan** — Team Lead and UI/UX Designer, designed system architecture and high-fidelity Figma prototypes
+* **Yashas Subramanya** — Frontend Developer, built responsive interfaces and integrated editing workflows
+* **Shreya Bhat** — ML Lead, models research and AI enhancement pipeline design
+* **Sameer Chakrawarti** — AI Engineer, integrated models into application workflows and handled Docker-based deployment
+* **Ayush Raj** — Backend Developer, developed APIs and managed workflow orchestration
+* **Tejas Sharma** — UI/UX Designer, contributed to Figma mockups and design iterations
+
+---
 ## Note
 
 This README provides a consolidated overview of the project setup and usage. For detailed documentation, please refer to the following resources available in this repository.
