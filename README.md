@@ -2,6 +2,11 @@
 
 A complete image processing application featuring AI powered enhancement capabilities and layer based editing workflows, envisioned for 2030.
 
+<img width="1366" height="564" alt="Banner of App" src="https://github.com/user-attachments/assets/47661872-3f44-436c-a571-6d6015167a0c" />
+
+
+
+
 ## Table of Contents
 
 1. [Overview](#overview)
